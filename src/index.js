@@ -3,7 +3,7 @@ import './theme/reset';
 
 // LESSONS
 
-// import './lesson-1-introduction-jsx';
+import './lesson-01-introduction-jsx';
 // import './lesson-2-styling';
 // import './lesson-3-props-context-children';
 // import './lesson-4-state-and-lifecycle';
@@ -20,4 +20,4 @@ import './theme/reset';
 // import './lesson-15-asynchronisity';
 // import './lesson-16-forms';
 // import './lesson-17-i18n';
-import './lesson-18-integration-testing';
+// import './lesson-18-integration-testing';

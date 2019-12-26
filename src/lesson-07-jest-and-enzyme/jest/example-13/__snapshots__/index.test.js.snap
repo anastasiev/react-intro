@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`jest/example-13 − 'add' function: should match its snapshot 1`] = `5`;

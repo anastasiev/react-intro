@@ -1,8 +1,0 @@
-@import '../../../theme/palette';
-@import '../../../theme/placeholders';
-
-.box {
-    @extend %box;
-
-    background-color: $paletteColor4;
-}
